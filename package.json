@@ -1,0 +1,14 @@
+{
+  "name": "1rn22ai119",
+  "version": "1.0.0",
+  "description": "Average Calculator HTTP Microservice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7"
+  }
+}
